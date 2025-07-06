@@ -37,7 +37,7 @@ Networking concepts (SSID, IP addressing, MAC filtering)
 
 📁 Files Included:
 
-Secure_WiFi_Project.pkt – Cisco Packet Tracer file
+Yashveer_Singh.pka – Cisco Packet Tracer file
 
 README.md – Project documentation
 
